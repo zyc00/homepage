@@ -7,34 +7,34 @@ ninja.data = [{
     title: "Home",
     section: "Navigation",
     handler: () => {
-      window.location.href = "/al-folio/";
+      window.location.href = "/";
     },
   },{id: "nav-publications",
           title: "Publications",
           description: "For full publication list, please refer to my Google Scholar page.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/al-folio/publications/";
+            window.location.href = "/publications/";
           },
         },{id: "nav-repositories",
           title: "Repositories",
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/al-folio/repositories/";
+            window.location.href = "/repositories/";
           },
         },{id: "nav-cv",
           title: "CV",
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/al-folio/assets/pdf/yuchen_cv.pdf";
+            window.location.href = "/assets/pdf/yuchen_cv.pdf";
           },
         },{id: "books-the-godfather",
           title: 'The Godfather',
           description: "",
           section: "Books",handler: () => {
-              window.location.href = "/al-folio/books/the_godfather/";
+              window.location.href = "/books/the_godfather/";
             },},{id: "news-point-sam-is-accepted-by-iclr-2025",
           title: 'Point-SAM is accepted by ICLR 2025.',
           description: "",
