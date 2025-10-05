@@ -1,34 +1,32 @@
 ---
 layout: about
-title: about
+title: Home
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
-  align: right
-  image: prof_pic.jpg
+  align: left
+  image: my_pic1.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
 
 announcements:
-  enabled: true # includes a list of news items
+  enabled: true # includes a list of news item
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
-latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
 ---
+<div style="font-size: 2rem">Yuchen Zhou</div>
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a first-year Ph.D. student in <a href="https://cse.ucsd.edu/">Computer Science and Engineering (CSE)</a> at <a href="https://ucsd.edu/">UC San Diego</a>, advised by Prof. <a href="https://cseweb.ucsd.edu/~haosu/">Hao Su</a>. I previously completed my M.S. in the same department under his supervision. Prior to UC San Diego, I earned my B.S. in Software Engineering from <a href="https://www.tsinghua.edu.cn/en/">Tsinghua University</a>, where I interned at <a href="https://iiis.tsinghua.edu.cn/en/">IIIS</a> worked with Prof. <a href="https://yang-gao.weebly.com/">Yang Gao</a>.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My research topics include Computer Vision and Embodied AI. Specifically, I am interested in enabling the robot agents to perceive, understand and operate in there environments efficiently and robustly.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+
+<div align="center">
+  <a href="mailto:yuchenzhou@ucsd.edu">Email</a>
+  /
+  <a href="https://scholar.google.com/citations?user=Xu9X8BsAAAAJ&hl=en">Google Scholar</a>
+  /
+  <a href="https://github.com/zyc00">GitHub</a>
+</div>
