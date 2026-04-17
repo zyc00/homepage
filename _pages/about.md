@@ -18,7 +18,7 @@ announcements:
 ---
 <div style="font-size: 2rem">Yuchen Zhou</div>
 
-I am a Ph.D. student in CIS and GRASP Lab at Penn, advised by Prof. <a href="https://jiayuanm.com">Jiayuan Mao</a>. I previously completed my M.S. in CSE at UC San Diego. Prior to UC San Diego, I earned my B.S. in Software Engineering from <a href="https://www.tsinghua.edu.cn/en/">Tsinghua University</a>, where I interned at <a href="https://iiis.tsinghua.edu.cn/en/">IIIS</a> worked with Prof. <a href="https://yang-gao.weebly.com/">Yang Gao</a>.
+I am a Ph.D. student in CIS and GRASP Lab at Penn, advised by Prof. <a href="https://jiayuanm.com">Jiayuan Mao</a>. I previously completed my M.S. in CSE at UC San Diego, where I was advised by Prof. <a href="https://haosu.ai">Hao Su</a>. Prior to UC San Diego, I earned my B.S. in Software Engineering from <a href="https://www.tsinghua.edu.cn/en/">Tsinghua University</a>, where I interned at <a href="https://iiis.tsinghua.edu.cn/en/">IIIS</a> worked with Prof. <a href="https://yang-gao.weebly.com/">Yang Gao</a>.
 
 My research topics include Computer Vision and Embodied AI. Specifically, I am interested in enabling the AI agents to sense, understand and operate in there environments efficiently and robustly.
 
